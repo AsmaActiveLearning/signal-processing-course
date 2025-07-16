@@ -1,0 +1,23 @@
+name: signalproc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - pywavelets
+  - umap-learn
+  - mne
+  - librosa
+  - seaborn
+  - notebook
+  - pip
+  - pip:
+    - tsaug
+    - torch
+    - transformers
+    - openai

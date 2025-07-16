@@ -1,0 +1,5 @@
+name: project_env
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
